@@ -1,0 +1,264 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "The subject of a sentence is:",
+    "options": [
+      "The action word",
+      "The noun that tells what the sentence is about",
+      "The describing word",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "In the sentence \"The cat meowed loudly\", the subject is:",
+    "options": [
+      "meowed",
+      "loudly",
+      "The cat",
+      "cat meowed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "The predicate of a sentence:",
+    "options": [
+      "Names the action or what is said about the subject",
+      "Is an adjective describing the subject",
+      "Is the subject of the sentence",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "In the sentence \"We sang songs happily\", the predicate is:",
+    "options": [
+      "We",
+      "happily",
+      "sang songs",
+      "sang songs happily"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Every complete sentence must have a subject.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "The predicate of \"Birds chirped loudly outside\" is:",
+    "options": [
+      "Birds",
+      "chirped",
+      "loudly",
+      "chirped loudly outside"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "In \"Maya baked cookies for us\", the subject is:",
+    "options": [
+      "cookies",
+      "baked",
+      "Maya",
+      "us"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "The _____ tells who or what the sentence is about.",
+    "options": [
+      "Verb",
+      "Subject",
+      "Predicate",
+      "Adverb"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "A predicate can never be just one word.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "\"Aunt Marie _____ her delicious pie\" is a sentence missing the:",
+    "options": [
+      "Subject",
+      "Predicate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "The subject of \"Salem and Cleo played fetch\" is:",
+    "options": [
+      "fetch",
+      "played fetch",
+      "Salem and Cleo",
+      "Salem"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "In \"Sally quickly _____ her chores\", what is missing?",
+    "options": [
+      "Subject",
+      "Predicate",
+      "Noun",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "The _____ gives the action or details about the subject.",
+    "options": [
+      "adverb",
+      "predicate",
+      "pronoun",
+      "noun"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "A subject can be a proper noun and a pronoun too.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "In \"The leaves rustled noisily\", the subject is:",
+    "options": [
+      "rustled",
+      "noisily",
+      "The leaves",
+      "leaves rustled"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "The predicate of \"My friend arrived late\" is:",
+    "options": [
+      "arrived late",
+      "friend",
+      "My friend",
+      "My"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "\"Either Helen or Jake _____ the report\" is missing the:",
+    "options": [
+      "Subject",
+      "Predicate",
+      "Noun"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "The predicate usually comes after the subject in a sentence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "In \"The kite soared gracefully above the trees\", the subject is:",
+    "options": [
+      "The kite",
+      "soared gracefully",
+      "above the trees",
+      "gracefully"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "The predicate of \"Rabbits hopped and scampered across the field\" is:",
+    "options": [
+      "hopped",
+      "scampered",
+      "hopped and scampered",
+      "across the field"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "In the sentence \"Behind the bushes, a squirrel gathered acorns,\" the subject is:",
+    "options": [
+      "Behind the bushes",
+      "a squirrel",
+      "gathered acorns",
+      "bushes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "The compound predicate in \"We danced and sang at the party\" is:",
+    "options": [
+      "danced",
+      "sang",
+      "danced and sang",
+      "at the party"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "The compound subject in \"Oranges and apples were in the basket\" is:",
+    "options": [
+      "in the basket",
+      "Oranges",
+      "apples",
+      "Oranges and apples"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "The same sentence can have both a compound subject and a compound predicate.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "A _____ subject has two or more nouns joined together.",
+    "options": [
+      "double",
+      "compound",
+      "complex",
+      "singular"
+    ],
+    "correct": 1
+  }
+]
